@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Juego - Pronuncia y Gana">
+  <div id="juego" class="juego">
+    <h2 id="nivelActual">Nivel: 1</h2>
+    <br>
+      <h1>🎮</h1>
+    <h2 id="palabraMostrar">Palabra</h2>
+    <img id="imagenPalabra" src="" alt="Imagen de la palabra" width="200" />
+     <p><strong>Traducción:</strong> <span id="traduccionPalabra"></span></p>
+    <br/>
+    <button id="btnEscuchar">🔊 Escuchar</button>
+    <button id="btnHablar">🎙 Pronunciar</button>
+    <button id="btnSiguiente">➡️ Siguiente palabra</button>
+    <button id="btnReiniciar">🔄 Reiniciar nivel</button>
+     <p id="puntaje">Puntaje: 0</p>
+    <button id="btnRegresar">⏪ Inicio</button>
+  </div>
+  <script type="module" src="/scripts/juego.js"></script>
+</BaseLayout>

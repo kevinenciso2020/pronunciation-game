@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Inicio - Pronuncia y Gana">
+  <h1>🎤 Pronuncia y Gana</h1>
+  <div class="inicio">
+    <label for="idioma">Selecciona un idioma:</label>
+    <select id="idioma">
+      <option value="es">Español ES</option>
+      <option value="en">Inglés EN</option>
+      <option value="fr">Francés FR</option>
+      <option value="ru">Ruso RU</option>
+      <option value="zh">Chino CN</option>
+    </select>
+    <label for="nivel">Selecciona el nivel:</label>
+    <select id="nivel">
+      <option value="1">Nivel 1 - Básico</option>
+      <option value="2">Nivel 2</option>
+      <option value="3">Nivel 3</option>
+      <option value="4">Nivel 4</option>
+      <option value="5">Nivel 5</option>
+    </select>
+    <button id="btnIniciar">Iniciar Juego</button>
+  </div>
+  <p class="info">Practica tu pronunciación en diferentes idiomas. Escucha, repite y mejora.</p>
+<script type="module" src="/scripts/inicio.js"></script>
+
+</BaseLayout>

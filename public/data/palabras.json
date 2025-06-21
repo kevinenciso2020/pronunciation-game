@@ -1,0 +1,199 @@
+{
+  "niveles": {
+    "1": {
+      "palabras": {
+        "es": [
+          { "palabra": "manzana", "traduccion": "apple", "imagen": "apple.png" },
+          { "palabra": "perro", "traduccion": "dog", "imagen": "dog.png" },
+          { "palabra": "casa", "traduccion": "house", "imagen": "house.png" },
+          { "palabra": "sol", "traduccion": "sun", "imagen": "sun.png" },
+          { "palabra": "agua", "traduccion": "water", "imagen": "water.png" }
+        ],
+        "en": [
+          { "palabra": "apple", "traduccion": "manzana", "imagen": "apple.png" },
+          { "palabra": "dog", "traduccion": "perro", "imagen": "dog.png" },
+          { "palabra": "house", "traduccion": "casa", "imagen": "house.png" },
+          { "palabra": "sun", "traduccion": "sol", "imagen": "sun.png" },
+          { "palabra": "water", "traduccion": "agua", "imagen": "water.png" }
+        ],
+        "fr": [
+          { "palabra": "pomme", "traduccion": "manzana", "imagen": "apple.png" },
+          { "palabra": "chien", "traduccion": "perro", "imagen": "dog.png" },
+          { "palabra": "maison", "traduccion": "casa", "imagen": "house.png" },
+          { "palabra": "soleil", "traduccion": "sol", "imagen": "sun.png" },
+          { "palabra": "eau", "traduccion": "agua", "imagen": "water.png" }
+        ],
+        "zh": [
+          { "palabra": "苹果", "traduccion": "manzana", "imagen": "apple.png" },
+          { "palabra": "狗", "traduccion": "perro", "imagen": "dog.png" },
+          { "palabra": "房子", "traduccion": "casa", "imagen": "house.png" },
+          { "palabra": "太阳", "traduccion": "sol", "imagen": "sun.png" },
+          { "palabra": "水", "traduccion": "agua", "imagen": "water.png" }
+        ],
+        "ru": [
+          { "palabra": "яблоко", "traduccion": "manzana", "imagen": "apple.png" },
+          { "palabra": "собака", "traduccion": "perro", "imagen": "dog.png" },
+          { "palabra": "дом", "traduccion": "casa", "imagen": "house.png" },
+          { "palabra": "солнце", "traduccion": "sol", "imagen": "sun.png" },
+          { "palabra": "вода", "traduccion": "agua", "imagen": "water.png" }
+        ]
+      }
+    },
+    "2": {
+      "palabras": {
+        "es": [
+          { "palabra": "escuela", "traduccion": "school", "imagen": "school.png" },
+          { "palabra": "montaña", "traduccion": "mountain", "imagen": "mountain.png" },
+          { "palabra": "biblioteca", "traduccion": "library", "imagen": "library.png" },
+          { "palabra": "ventana", "traduccion": "window", "imagen": "window.png" },
+          { "palabra": "árbol", "traduccion": "tree", "imagen": "tree.png" }
+        ],
+        "en": [
+          { "palabra": "school", "traduccion": "escuela", "imagen": "school.png" },
+          { "palabra": "mountain", "traduccion": "montaña", "imagen": "mountain.png" },
+          { "palabra": "library", "traduccion": "biblioteca", "imagen": "library.png" },
+          { "palabra": "window", "traduccion": "ventana", "imagen": "window.png" },
+          { "palabra": "tree", "traduccion": "árbol", "imagen": "tree.png" }
+        ],
+        "fr": [
+          { "palabra": "école", "traduccion": "escuela", "imagen": "school.png" },
+          { "palabra": "montagne", "traduccion": "montaña", "imagen": "mountain.png" },
+          { "palabra": "bibliothèque", "traduccion": "biblioteca", "imagen": "library.png" },
+          { "palabra": "fenêtre", "traduccion": "ventana", "imagen": "window.png" },
+          { "palabra": "arbre", "traduccion": "árbol", "imagen": "tree.png" }
+        ],
+        "zh": [
+          { "palabra": "学校", "traduccion": "escuela", "imagen": "school.png" },
+          { "palabra": "山", "traduccion": "montaña", "imagen": "mountain.png" },
+          { "palabra": "图书馆", "traduccion": "biblioteca", "imagen": "library.png" },
+          { "palabra": "窗户", "traduccion": "ventana", "imagen": "window.png" },
+          { "palabra": "树", "traduccion": "árbol", "imagen": "tree.png" }
+        ],
+        "ru": [
+          { "palabra": "школа", "traduccion": "escuela", "imagen": "school.png" },
+          { "palabra": "гора", "traduccion": "montaña", "imagen": "mountain.png" },
+          { "palabra": "библиотека", "traduccion": "biblioteca", "imagen": "library.png" },
+          { "palabra": "окно", "traduccion": "ventana", "imagen": "window.png" },
+          { "palabra": "дерево", "traduccion": "árbol", "imagen": "tree.png" }
+        ]
+      }
+    },
+    "3": {
+      "palabras": {
+        "es": [
+          { "palabra": "murciélago", "traduccion": "bat", "imagen": "bat.png" },
+          { "palabra": "refrigerador", "traduccion": "refrigerator", "imagen": "fridge.png" },
+          { "palabra": "escalera", "traduccion": "staircase", "imagen": "stairs.png" },
+          { "palabra": "computadora", "traduccion": "computer", "imagen": "computer.png" },
+          { "palabra": "mariposa", "traduccion": "butterfly", "imagen": "butterfly.png" }
+        ],
+        "en": [
+          { "palabra": "bat", "traduccion": "murciélago", "imagen": "bat.png" },
+          { "palabra": "refrigerator", "traduccion": "refrigerador", "imagen": "fridge.png" },
+          { "palabra": "staircase", "traduccion": "escalera", "imagen": "stairs.png" },
+          { "palabra": "computer", "traduccion": "computadora", "imagen": "computer.png" },
+          { "palabra": "butterfly", "traduccion": "mariposa", "imagen": "butterfly.png" }
+        ],
+        "fr": [
+          { "palabra": "chauve-souris", "traduccion": "murciélago", "imagen": "bat.png" },
+          { "palabra": "réfrigérateur", "traduccion": "refrigerador", "imagen": "fridge.png" },
+          { "palabra": "escalier", "traduccion": "escalera", "imagen": "stairs.png" },
+          { "palabra": "ordinateur", "traduccion": "computadora", "imagen": "computer.png" },
+          { "palabra": "papillon", "traduccion": "mariposa", "imagen": "butterfly.png" }
+        ],
+        "zh": [
+          { "palabra": "蝙蝠", "traduccion": "murciélago", "imagen": "bat.png" },
+          { "palabra": "冰箱", "traduccion": "refrigerador", "imagen": "fridge.png" },
+          { "palabra": "楼梯", "traduccion": "escalera", "imagen": "stairs.png" },
+          { "palabra": "电脑", "traduccion": "computadora", "imagen": "computer.png" },
+          { "palabra": "蝴蝶", "traduccion": "mariposa", "imagen": "butterfly.png" }
+        ],
+        "ru": [
+          { "palabra": "летучая мышь", "traduccion": "murciélago", "imagen": "bat.png" },
+          { "palabra": "холодильник", "traduccion": "refrigerador", "imagen": "fridge.png" },
+          { "palabra": "лестница", "traduccion": "escalera", "imagen": "stairs.png" },
+          { "palabra": "компьютер", "traduccion": "computadora", "imagen": "computer.png" },
+          { "palabra": "бабочка", "traduccion": "mariposa", "imagen": "butterfly.png" }
+        ]
+      }
+    },
+    "4": {
+    "palabras": {
+      "es": [
+        { "palabra": "murciélago", "traduccion": "bat", "imagen": "bat.png" },
+        { "palabra": "electricidad", "traduccion": "electricity", "imagen": "electricity.png" },
+        { "palabra": "universidad", "traduccion": "university", "imagen": "university.png" },
+        { "palabra": "computadora", "traduccion": "computer", "imagen": "computer.png" },
+        { "palabra": "telescopio", "traduccion": "telescope", "imagen": "telescope.png" }
+      ],
+      "en": [
+        { "palabra": "bat", "traduccion": "murciélago", "imagen": "bat.png" },
+        { "palabra": "electricity", "traduccion": "electricidad", "imagen": "electricity.png" },
+        { "palabra": "university", "traduccion": "universidad", "imagen": "university.png" },
+        { "palabra": "computer", "traduccion": "computadora", "imagen": "computer.png" },
+        { "palabra": "telescope", "traduccion": "telescopio", "imagen": "telescope.png" }
+      ],
+      "fr": [
+        { "palabra": "chauve-souris", "traduccion": "murciélago", "imagen": "bat.png" },
+        { "palabra": "électricité", "traduccion": "electricidad", "imagen": "electricity.png" },
+        { "palabra": "université", "traduccion": "universidad", "imagen": "university.png" },
+        { "palabra": "ordinateur", "traduccion": "computadora", "imagen": "computer.png" },
+        { "palabra": "télescope", "traduccion": "telescopio", "imagen": "telescope.png" }
+      ],
+      "zh": [
+        { "palabra": "蝙蝠", "traduccion": "murciélago", "imagen": "bat.png" },
+        { "palabra": "电力", "traduccion": "electricidad", "imagen": "electricity.png" },
+        { "palabra": "大学", "traduccion": "universidad", "imagen": "university.png" },
+        { "palabra": "计算机", "traduccion": "computadora", "imagen": "computer.png" },
+        { "palabra": "望远镜", "traduccion": "telescopio", "imagen": "telescope.png" }
+      ],
+      "ru": [
+        { "palabra": "летучая мышь", "traduccion": "murciélago", "imagen": "bat.png" },
+        { "palabra": "электричество", "traduccion": "electricidad", "imagen": "electricity.png" },
+        { "palabra": "университет", "traduccion": "universidad", "imagen": "university.png" },
+        { "palabra": "компьютер", "traduccion": "computadora", "imagen": "computer.png" },
+        { "palabra": "телескоп", "traduccion": "telescopio", "imagen": "telescope.png" }
+        ]
+      }
+    },
+    "5": {
+    "palabras": {
+      "es": [
+        { "palabra": "electrodoméstico", "traduccion": "appliance", "imagen": "appliance.png" },
+        { "palabra": "esternocleidomastoideo", "traduccion": "sternocleidomastoid", "imagen": "muscle.png" },
+        { "palabra": "otorrinolaringólogo", "traduccion": "otolaryngologist", "imagen": "doctor.png" },
+        { "palabra": "desafortunadamente", "traduccion": "unfortunately", "imagen": "sad.png" },
+        { "palabra": "paralelepípedo", "traduccion": "parallelepiped", "imagen": "shape.png" }
+      ],
+      "en": [
+        { "palabra": "appliance", "traduccion": "electrodoméstico", "imagen": "appliance.png" },
+        { "palabra": "sternocleidomastoid", "traduccion": "esternocleidomastoideo", "imagen": "muscle.png" },
+        { "palabra": "otolaryngologist", "traduccion": "otorrinolaringólogo", "imagen": "doctor.png" },
+        { "palabra": "unfortunately", "traduccion": "desafortunadamente", "imagen": "sad.png" },
+        { "palabra": "parallelepiped", "traduccion": "paralelepípedo", "imagen": "shape.png" }
+      ],
+      "fr": [
+        { "palabra": "appareil électroménager", "traduccion": "electrodoméstico", "imagen": "appliance.png" },
+        { "palabra": "sternocléidomastoïdien", "traduccion": "esternocleidomastoideo", "imagen": "muscle.png" },
+        { "palabra": "oto-rhino-laryngologiste", "traduccion": "otorrinolaringólogo", "imagen": "doctor.png" },
+        { "palabra": "malheureusement", "traduccion": "desafortunadamente", "imagen": "sad.png" },
+        { "palabra": "parallélépipède", "traduccion": "paralelepípedo", "imagen": "shape.png" }
+      ],
+      "zh": [
+        { "palabra": "家用电器", "traduccion": "electrodoméstico", "imagen": "appliance.png" },
+        { "palabra": "胸锁乳突肌", "traduccion": "esternocleidomastoideo", "imagen": "muscle.png" },
+        { "palabra": "耳鼻喉科医生", "traduccion": "otorrinolaringólogo", "imagen": "doctor.png" },
+        { "palabra": "不幸地", "traduccion": "desafortunadamente", "imagen": "sad.png" },
+        { "palabra": "平行六面体", "traduccion": "paralelepípedo", "imagen": "shape.png" }
+      ],
+      "ru": [
+        { "palabra": "бытовая техника", "traduccion": "electrodoméstico", "imagen": "appliance.png" },
+        { "palabra": "грудино-ключично-сосцевидная мышца", "traduccion": "esternocleidomastoideo", "imagen": "muscle.png" },
+        { "palabra": "отоларинголог", "traduccion": "otorrinolaringólogo", "imagen": "doctor.png" },
+        { "palabra": "к сожалению", "traduccion": "desafortunadamente", "imagen": "sad.png" },
+        { "palabra": "параллелепипед", "traduccion": "paralelepípedo", "imagen": "shape.png" }
+        ]
+      }
+    }
+  }
+}
