@@ -60,6 +60,7 @@ function mostrarPalabra() {
   if (!palabra) return;
   imagenPalabra.src = `/assets/imagenes/${palabra.imagen}`;
   traduccionPalabra.innerText = palabra.traduccion;
+  palabraMostrar.innerText = palabra.palabra;
 }
 
 // Botón escuchar

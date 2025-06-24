@@ -63,6 +63,48 @@ button:hover {
   margin-top: 1rem;
 }
 
+.botones-secundarios {
+  display: flex;
+  justify-content: center;
+  gap: 10px; /* espacio entre botones */
+  margin-top: 20px;
+}
+
+#btnSiguiente,
+#btnReiniciar {
+  background-color: #ff4500;
+  color: white;
+  border: none;
+  padding: 10px 90px;
+  border-radius: 15px;
+  font-size: 14px;
+  cursor: pointer;
+  flex: 1; /* que compartan espacio */
+  max-width: 150px;
+  transition: transform 0.2s, background-color 0.3s;
+  border: solid#333;
+}
+
+#btnSiguiente,
+#btnReiniciar {
+  background-color: #ff4500;
+  color: white;
+  border: solid #333;
+  padding: 10px 15px;
+  border-radius: 10px;
+  font-size: 14px;
+  cursor: pointer;
+  flex: 1;
+  max-width: 200px; /* o elimínalo si quieres que crezca más */
+  width: 100%;
+  text-align: center;
+  white-space: normal;
+  word-break: break-word;
+  transition: transform 0.2s, background-color 0.3s;
+}
+
+
+
 /* Responsive para móviles */
 @media (max-width: 500px) {
   .container {
